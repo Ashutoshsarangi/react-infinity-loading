@@ -15,29 +15,14 @@ NOTE:-
 
 To use this project, follow these steps:
 
-1.  **Clone the repository**:
     
-    bash
+1.  **Install dependencies**:
+   
+    ```npm install```
     
-    Copy code
+2.  **Run the development server**:
     
-    `git clone <repository-url>` 
-    
-2.  **Install dependencies**:
-    
-    bash
-    
-    Copy code
-    
-    `npm install` 
-    
-3.  **Run the development server**:
-    
-    bash
-    
-    Copy code
-    
-    `npm run dev` 
+    ```npm run dev``` 
     
 
 ## Limitations
